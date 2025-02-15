@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/john/repos/SoniCWave",
+    "file": "/home/john/repos/SoniCWave/src/main.c",
+    "output": "/home/john/repos/SoniCWave/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/swv_init.o",
+      "src/swv_init.c"
+    ],
+    "directory": "/home/john/repos/SoniCWave",
+    "file": "/home/john/repos/SoniCWave/src/swv_init.c",
+    "output": "/home/john/repos/SoniCWave/build/swv_init.o"
+  }
+]
